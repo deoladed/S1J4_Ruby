@@ -1,3 +1,6 @@
+# Je crois que ca se passe de commentaires, enfin j'espere
+
+
 def say_hello(first_name)
 	puts "Saluuuuuuuut #{first_name}"
 end
