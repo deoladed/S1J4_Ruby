@@ -27,6 +27,7 @@ end
 
 
 def wtf_pyramid(h)
+	puts "Voici la pyramide ma gueule :"
 full_pyramid(h)
 full_pyramidreverse(h)
 end
