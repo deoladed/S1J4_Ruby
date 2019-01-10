@@ -1,5 +1,5 @@
 # S1J4_Ruby
-Bonjour cher correcteur, bienvenue notre repo.
+Bonjour cher correcteur, bienvenue dans notre repository.
 
 Il a ete realise a grand peine par :
 Laurane PETIT / @Laurane   et
